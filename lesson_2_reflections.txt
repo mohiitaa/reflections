@@ -11,3 +11,6 @@
 
 	We can group all similar changes in the staging area and commit them together.
 	
+	What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+	Branches will be helpful when we are happy with the present version but want to make some experimental changes 
