@@ -22,3 +22,7 @@
 	What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 	All commits that have been done till now come in the resulting master. Its more easy ti visualise.
+
+	What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+	When there is a merge conflict, git gives user the power to appropriately fix it than by just guessing what could be right
